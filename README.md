@@ -1,11 +1,17 @@
 # Hello-World
  # 👋 Hi, I'm Raj Dhanak
  * 🎓 BCA Student at [Sardar Vallabhbhai Global University]
+   
  ---
- * 💡 Interested in Python*
+ 
+ * 💡 Interested in Python
+   
  ---
- * 📱 Currently learning GitHub & Open Source*
+ 
+ * 📱 Currently learning GitHub & Open Source
+   
 ---
+
  *  🚀 Goal:
  *   To build projects and collaborate with others
  *   Master core programming languages (Java, Python, C)
