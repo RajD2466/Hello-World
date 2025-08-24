@@ -16,12 +16,11 @@
  ---
 
  🌍 About This Repo
- This is my first GitHub repository named **Hello-World**.
- It contains simple programs in **Python** for practice.
+* This is my first GitHub repository named **Hello-World**.
+*  It contains simple programs in **Python** for practice.
 
  ---
 
- 📫 Let's Connect
- 
-Feel free to reach out or check out my projects.
-I’m always open to learning and collaboration!
+ 📫 Let's Connect 
+ *  Feel free to reach out or check out my projects.
+ *  I’m always open to learning and collaboration!
